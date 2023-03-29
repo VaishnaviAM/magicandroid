@@ -49,7 +49,7 @@
       <SourceFileTimeStamp _date="738608" _time="30497" date="29/03/2023" time="08:28:17"/>
     </Program>
     <Program>
-      <Header ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="3">
+      <Header Description="Test" ISN_2="1" LastIsn="1" id="3">
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -63,9 +63,9 @@
         <Offline val="N"/>
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
-        <LastModified date="00/00/0000" time="00:00:00"/>
+        <LastModified _date="738608" _time="51538" date="29/03/2023" time="14:18:58"/>
       </Header>
-      <SourceFileTimeStamp _date="738608" _time="30497" date="29/03/2023" time="08:28:17"/>
+      <SourceFileTimeStamp _date="738608" _time="31738" date="29/03/2023" time="08:48:58"/>
     </Program>
   </ProgramsRepositoryHeaders>
 
