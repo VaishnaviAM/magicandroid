@@ -2,3 +2,6 @@ MagicIDs/branchIDs*.*
 /Source/ProgramHeaders.xml
 /Source/DataSourcesIndex.xml
 *.log
+/Source/ProgramHeaders.xml
+/Source/DataSourcesIndex.xml
+*.log
